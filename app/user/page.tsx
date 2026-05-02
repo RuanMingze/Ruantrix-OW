@@ -338,8 +338,6 @@ export default function UserCenterPage() {
         .select('*')
         .eq('email', user.email)
         .single()
-
-      console.log('获取更新后的用户资料:', updatedProfile)
       
       // 更新本地状态
       setUserProfile(updatedProfile)

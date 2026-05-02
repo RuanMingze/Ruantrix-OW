@@ -253,7 +253,7 @@ export function ProductsSection() {
       id: 3,
       title: 'TheGuide 工具箱',
       description: '集天气查询、计算器、编程工具、系统知识于一体的实用工具箱，提升您的工作效率。支持 Windows、macOS 和 Linux 多平台。',
-      icon: 'https://ruanmingze.github.io/t-t-i/favicon.ico',
+      icon: 'https://t-t-i.pages.dev/favicon.ico',
       screenshot: 'https://luckycola.com.cn/public/imgs/luckycola_Imghub_forever_c4w8eKYK17747658308018006.png',
       detailUrl: 'https://ruanmingze.github.io/t-t-i',
       downloadUrl: null
